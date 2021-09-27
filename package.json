@@ -1,0 +1,14 @@
+{
+  "name": "profile-card-component-main",
+  "version": "1.0.0",
+  "description": "frontendmentor challenge tailwind",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -i src/style.css -o public/style.css"
+  },
+  "author": "luis Colina",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.15"
+  }
+}
